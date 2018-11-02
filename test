@@ -33,5 +33,6 @@ public class Test extends JFrame {
 	public static void main (String args[])
 	{
 		Test f = new Test();
+		return;
 	}
 }
